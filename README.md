@@ -66,7 +66,7 @@ SELECT * FROM Employees WHERE emp_name like '%An';
 SELECT * FROM Employees WHERE emp_age > 25;
 ```
 
-### 4.Update employee data
+### 4. Update employee data
 
 - #### Udate employee salary where phone == 9382871562
 ```bash
