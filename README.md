@@ -1,5 +1,4 @@
-# SQL_Database
-
+# SQL Database
 ## 18.1 Employees Management System
 
 -  This Project SQL queries to perform CRUD operations on employee data in a relational database, enabling seamless management of employee records including creation, retrieval, updating, and deletion.
