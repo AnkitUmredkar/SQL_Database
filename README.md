@@ -31,7 +31,7 @@ VALUES("Ankit", "Flutter Developer", 18, "Surat, Gujarat", 9328456943, 30000);
 
 ```bash
 INSERT INTO Employees (emp_name, emp_role, emp_age, emp_address, emp_phone) 
-VALUES("Ankit", "Flutter Developer", 18, "Surat, Gujarat", 9328456943, 40000),
+VALUES("Ankit", "Flutter Developer", 18, "Surat, Gujarat", 9328456943, 45000),
 ("Kartik", "Full-Stack Developer", 21, "Surat, Gujarat", 9324865173, 20000),
 ("Pavan", "UI-UX Designer", 23, "Surat, Gujarat", 8564723985, 60000),
 ("Parth", "Android Developer", 19, "Surat, Gujarat", 9465238719, 30000);
@@ -68,9 +68,9 @@ SELECT * FROM Employees WHERE emp_age > 25;
 
 ### 4. Update employee data
 
-- #### Udate employee salary where phone == 9382871562
+- #### Udate employee salary where phone == 9328456943
 ```bash
-UPDATE Employees SET emp_salary = 50000 WHERE emp_phone = 9382871562;
+UPDATE Employees SET emp_salary = 50000 WHERE emp_phone = 9328456943;
 ```
 
 ### 5. Delete employee data
